@@ -47,4 +47,3 @@ Feel free to submit pull requests or issues for improvements or additional featu
 
 ---
 
-Let me know if you need further customization!
